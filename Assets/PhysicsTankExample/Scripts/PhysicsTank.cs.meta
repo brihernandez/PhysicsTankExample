@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 0d84f955e93eae344b8af410d738b87d
+timeCreated: 1518755220
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - centerOfMass: {instanceID: 0}
+  - wheelModelPrefab: {fileID: 4339269679154178, guid: 07216a712257a1e459f116450fda489c,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
