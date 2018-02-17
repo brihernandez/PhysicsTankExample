@@ -18,6 +18,9 @@ public class PhysicsTank : MonoBehaviour
    [Tooltip("Any wheels that provide power.")]
    public WheelCollider[] poweredwheels;
 
+   public WheelCollider[] left;
+   public WheelCollider[] right;
+
    private Rigidbody rigid;
    private float forwardInput, turnInput = 0.0f;
 
@@ -78,6 +81,16 @@ public class PhysicsTank : MonoBehaviour
             WheelToTransformMap[wheel].position = position;
             WheelToTransformMap[wheel].rotation = rotation;
          }
+      }
+
+      foreach (WheelCollider wheel in left)
+      {
+         wheel.motorTorque -= motorTorque * turnInput;
+      }
+
+      foreach (WheelCollider wheel in right)
+      {
+         wheel.motorTorque += motorTorque * turnInput;
       }
 
       foreach (WheelCollider wheel in front)
