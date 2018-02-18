@@ -223,144 +223,58 @@ Prefab:
       propertyPath: m_RootOrder
       value: 2
       objectReference: {fileID: 0}
-    - target: {fileID: 146669689204416998, guid: 4fd68192bf694944598fdc064cbbc177,
-        type: 2}
-      propertyPath: m_SidewaysFriction.m_Stiffness
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 146271028200284650, guid: 4fd68192bf694944598fdc064cbbc177,
-        type: 2}
-      propertyPath: m_SidewaysFriction.m_Stiffness
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 146862077890143654, guid: 4fd68192bf694944598fdc064cbbc177,
-        type: 2}
-      propertyPath: m_SidewaysFriction.m_Stiffness
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 146961494628575400, guid: 4fd68192bf694944598fdc064cbbc177,
-        type: 2}
-      propertyPath: m_SidewaysFriction.m_Stiffness
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 146754198569597324, guid: 4fd68192bf694944598fdc064cbbc177,
-        type: 2}
-      propertyPath: m_SidewaysFriction.m_Stiffness
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 146209132695027112, guid: 4fd68192bf694944598fdc064cbbc177,
-        type: 2}
-      propertyPath: m_SidewaysFriction.m_Stiffness
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 146577326406905150, guid: 4fd68192bf694944598fdc064cbbc177,
-        type: 2}
-      propertyPath: m_SidewaysFriction.m_Stiffness
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 146059346404442106, guid: 4fd68192bf694944598fdc064cbbc177,
-        type: 2}
-      propertyPath: m_SidewaysFriction.m_Stiffness
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 146766176499726984, guid: 4fd68192bf694944598fdc064cbbc177,
-        type: 2}
-      propertyPath: m_SidewaysFriction.m_Stiffness
-      value: 10
-      objectReference: {fileID: 0}
-    - target: {fileID: 146366712899600120, guid: 4fd68192bf694944598fdc064cbbc177,
-        type: 2}
-      propertyPath: m_SidewaysFriction.m_Stiffness
-      value: 10
-      objectReference: {fileID: 0}
-    - target: {fileID: 1237238605544538, guid: 4fd68192bf694944598fdc064cbbc177, type: 2}
-      propertyPath: m_IsActive
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 1846247565549514, guid: 4fd68192bf694944598fdc064cbbc177, type: 2}
-      propertyPath: m_IsActive
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 1603464523802202, guid: 4fd68192bf694944598fdc064cbbc177, type: 2}
-      propertyPath: m_IsActive
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 1939018749441906, guid: 4fd68192bf694944598fdc064cbbc177, type: 2}
-      propertyPath: m_IsActive
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 1228090606528886, guid: 4fd68192bf694944598fdc064cbbc177, type: 2}
-      propertyPath: m_IsActive
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 1521769694657396, guid: 4fd68192bf694944598fdc064cbbc177, type: 2}
-      propertyPath: m_IsActive
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 1890708428023554, guid: 4fd68192bf694944598fdc064cbbc177, type: 2}
-      propertyPath: m_IsActive
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 1513157692673870, guid: 4fd68192bf694944598fdc064cbbc177, type: 2}
-      propertyPath: m_IsActive
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 146669689204416998, guid: 4fd68192bf694944598fdc064cbbc177,
-        type: 2}
-      propertyPath: m_Enabled
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 146271028200284650, guid: 4fd68192bf694944598fdc064cbbc177,
-        type: 2}
-      propertyPath: m_Enabled
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 146862077890143654, guid: 4fd68192bf694944598fdc064cbbc177,
-        type: 2}
-      propertyPath: m_Enabled
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 146961494628575400, guid: 4fd68192bf694944598fdc064cbbc177,
-        type: 2}
-      propertyPath: m_Enabled
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 146754198569597324, guid: 4fd68192bf694944598fdc064cbbc177,
-        type: 2}
-      propertyPath: m_Enabled
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 146577326406905150, guid: 4fd68192bf694944598fdc064cbbc177,
-        type: 2}
-      propertyPath: m_Enabled
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 146209132695027112, guid: 4fd68192bf694944598fdc064cbbc177,
-        type: 2}
-      propertyPath: m_Enabled
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 146059346404442106, guid: 4fd68192bf694944598fdc064cbbc177,
-        type: 2}
-      propertyPath: m_Enabled
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 146766176499726984, guid: 4fd68192bf694944598fdc064cbbc177,
-        type: 2}
-      propertyPath: m_ForwardFriction.m_Stiffness
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 146366712899600120, guid: 4fd68192bf694944598fdc064cbbc177,
-        type: 2}
-      propertyPath: m_ForwardFriction.m_Stiffness
-      value: 0
-      objectReference: {fileID: 0}
     - target: {fileID: 1431859253861506, guid: 4fd68192bf694944598fdc064cbbc177, type: 2}
       propertyPath: m_IsActive
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 4fd68192bf694944598fdc064cbbc177, type: 2}
+  m_IsPrefabParent: 0
+--- !u!1001 &426215973
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4444740319727168, guid: 1cba6dacd51aaa44ea11189f07ffdd39, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4444740319727168, guid: 1cba6dacd51aaa44ea11189f07ffdd39, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 5.21
+      objectReference: {fileID: 0}
+    - target: {fileID: 4444740319727168, guid: 1cba6dacd51aaa44ea11189f07ffdd39, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4444740319727168, guid: 1cba6dacd51aaa44ea11189f07ffdd39, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4444740319727168, guid: 1cba6dacd51aaa44ea11189f07ffdd39, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4444740319727168, guid: 1cba6dacd51aaa44ea11189f07ffdd39, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4444740319727168, guid: 1cba6dacd51aaa44ea11189f07ffdd39, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4444740319727168, guid: 1cba6dacd51aaa44ea11189f07ffdd39, type: 2}
+      propertyPath: m_RootOrder
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 1767456522786174, guid: 1cba6dacd51aaa44ea11189f07ffdd39, type: 2}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 100100000, guid: 1cba6dacd51aaa44ea11189f07ffdd39, type: 2}
   m_IsPrefabParent: 0
 --- !u!1 &658072072
 GameObject:
@@ -494,6 +408,10 @@ Prefab:
     - target: {fileID: 4318392802981672, guid: 834ebc2433ddbd646a7672f382e56101, type: 2}
       propertyPath: m_RootOrder
       value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 1234516292667460, guid: 834ebc2433ddbd646a7672f382e56101, type: 2}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 834ebc2433ddbd646a7672f382e56101, type: 2}
