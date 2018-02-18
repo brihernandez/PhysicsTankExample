@@ -1,6 +1,8 @@
 # Physics Tank Example
 Meant to show three different ways to use Unity's standard WheelCollider to create a driveable tank. The code is commented, and there are tooltips on all the parameters for the TankPhysics component. 
 
+Something to keep in mind is that this is very much just an example. While you could theoretically just plug this into a project and set it up, because it’s so general purpose and prototype-like I would recommend deciding on which method you like best, and then simplifying the code to take only what you want.
+
 Built in **Unity 2017.3**.
 
 ![screenshot](Screenshots/tankrolling.gif)
