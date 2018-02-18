@@ -51,10 +51,7 @@ public class PhysicsTank : MonoBehaviour
          if (centerOfMass.parent == transform)
             rigid.centerOfMass = centerOfMass.localPosition;
          else
-         {
-            System.Text.StringBuilder ss;
             Debug.LogWarning(name + ": PhysicsTank cannot override center of mass when " + centerOfMass.name + " is not a child of " + transform.name);
-         }
          
       }
 
