@@ -42,3 +42,9 @@ To get around this, all the wheels except the two center ones have a sideways st
 ### Magic Steering
 
 This one allows for both turning while standing still, and turning in a very controlled and predictable manner. Basically, the tank rotates with magic. You supply a Magic Turn Rate (45 degrees by default), and it just rotates the tank by rotating the rigidbody itself. Using rigid.MoveRotation, you still get the physics of suspension bobbing the tank around, while still being able to apply a turn with magic code.
+
+# Changelog
+
+### 1.0 (Feb 18 2018)
+
+- Released
